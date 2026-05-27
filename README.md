@@ -137,6 +137,4 @@ Database Access
 
 ---
 
-# Getting Started
 
-## Clone Repository
